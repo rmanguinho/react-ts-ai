@@ -1,4 +1,5 @@
 - Naming conventions
+  - Always respond in english
   - Use camelCase for variables, functions and constants
   - Use PascalCase for classes, types, interfaces and React components
   - Use kebab-case for file and folder names

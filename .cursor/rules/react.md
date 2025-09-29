@@ -1,0 +1,8 @@
+- Use tailwindcss for styling
+- Use shadcn/ui for components
+- Use Zod for validation
+- Use React Hook Form
+- Use React Router
+- Use Motion for animations
+- Use Lucide-React for icons
+- Use i18next for internationalization
